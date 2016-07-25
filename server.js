@@ -39,3 +39,6 @@ function sendClientData(sPath,resp){
 
     });
 }
+
+console.log()
+
